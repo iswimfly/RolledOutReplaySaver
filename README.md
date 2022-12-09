@@ -1,9 +1,9 @@
-# RolledOutReplaySaver
+# RolledOut Replay Saver
 I'm lazy, so reap the benefits of my efficient laziness!
 
 This tool won't last very long. I plan on making this solely because replays dont' automatically save yet in-game.
 
-Simply install this to your Rolled Out! Replays folder
+Simply install this to your Rolled Out! Replays folder:
 
 `C:\Users\<Username>\AppData\Local\RolledOut\Saved\Replays\auto`
 
