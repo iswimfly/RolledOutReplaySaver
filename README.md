@@ -12,4 +12,4 @@ And run the script to have access to the buttons.
 Ctrl+S will save replays while on any menus. **(YOU MUST EXIT BEFORE RESPAWNING FOR THE REPLAY TO SAVE.)**
 Ctrl+Q will quit the program.
 
-Exiting and re-opening the program within the same minute and saving results in overwriting an old replay. It's an oversight on my end that I don't feel like fixing since this tool will hopefully be obsolete relatively soon.
+**Exiting and re-opening the program within the same minute and saving overwrites old replays**. It's an oversight on my end that I don't feel like fixing since this tool will hopefully be obsolete relatively soon.
